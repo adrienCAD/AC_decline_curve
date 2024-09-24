@@ -1,5 +1,7 @@
 # Advanced Decline Curve Analysis (DCA) for Oil Production
 
+data source: https://github.com/Jeffalltogether/well_decline_curve_analysis/tree/master
+
 ![DCA Example](images/DCA_example.png)
 
 This project implements advanced Decline Curve Analysis (DCA) techniques to analyze and predict oil production rates over time. It combines traditional DCA models with machine learning approaches to provide comprehensive insights into well performance.
